@@ -19,8 +19,7 @@ python main.py
 ```
 
 ### 📊 Dataset
-Use any income dataset (for example: `adult.csv` from UCI dataset).  
-Save the dataset in the project folder as **data.csv**.
+
 
 ---
 If you need help preparing your dataset, tell me! 😊
